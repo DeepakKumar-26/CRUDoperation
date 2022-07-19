@@ -1,0 +1,16 @@
+a.nav-link {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+a.nav-link:hover {
+  color: crimson;
+  background-color: blanchedalmond;
+}
+a.nav-link.active {
+  color: white;
+  background-color:grey;
+}

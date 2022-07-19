@@ -1,0 +1,61 @@
+body {
+  margin: 5px;
+}
+.container {
+  width: 100%;
+}
+nav.top-nav {
+  background-color: crimson;
+  overflow: hidden;
+}
+section.middle-students-records {
+  display: flex;
+  height: 84vh;
+  justify-content: space-between;
+  background-color: crimson;
+  padding: 5px;
+}
+
+div.students-records {
+  width: 75%;
+  background-color: darkgray;
+  overflow-y: auto;
+}
+
+.d-none {
+  display: none;
+}
+.rounded {
+  border-radius: 5px;
+}
+.p-5 {
+  padding: 25px;
+}
+.p-1 {
+  padding: 5px;
+}
+.m-5 {
+  margin: 25px;
+}
+.m-1 {
+  margin: 5px;
+}
+.m-0 {
+  margin: 0px;
+}
+.mt-1 {
+  margin-top: 5px;
+}
+.mb-1 {
+  margin-bottom: 5px;
+}
+.m-auto-x {
+  margin: 0px auto;
+}
+.center {
+  text-align: center;
+}
+h4.heading {
+  margin: 5px 0;
+  padding: 5px 0;
+}

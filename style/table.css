@@ -1,0 +1,21 @@
+table.students-records {
+  width: 100%;
+}
+th,
+td {
+  width: auto;
+  text-align: start;
+  margin: 0px;
+  padding: 5px;
+}
+th.students-records {
+  color: white;
+}
+tr.table-heading {
+  background-color: crimson;
+  /* position: sticky; */
+  /* top: 0; */
+}
+tr {
+  background-color: white;
+}

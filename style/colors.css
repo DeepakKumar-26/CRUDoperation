@@ -1,0 +1,33 @@
+.red{
+    color: red;
+}
+.white{
+    color: white;
+}
+.crimson{
+    color: crimson;
+}
+.yellow{
+    color: yellow;
+}
+.blue{
+    color: blue;
+}
+.bg-red{
+    background-color: red;
+}
+.bg-yellow{
+    background-color: yellow;
+}
+.bg-crimson{
+    background-color: crimson;
+}
+.bg-black{
+    background-color: black;
+}
+.bg-grey{
+    background-color: lightgray;
+}
+.bg-blue{
+    background-color: blue;
+}
